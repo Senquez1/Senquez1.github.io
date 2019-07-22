@@ -148,6 +148,13 @@ a:hover {
 }
 
 .title-a {
+  
+  font-size: 3rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.title-b {
+  padding-top: 75px;
   font-size: 3rem;
   font-weight: bold;
   text-transform: uppercase;
@@ -219,6 +226,7 @@ a:hover {
   box-shadow: 0 0 0 3px #72BCD4;
   transition: all 500ms ease;
 background-color: white;
+;
 }
 
 .socials .ico-circle:hover {
